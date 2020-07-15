@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello! <img alt="Waving hand emoji" src="https://github.com/OfficialMarinho/OfficialMarinho/blob/master/waving-hand-emoji-animated.gif?raw=true" width="25px">
 
-<!--
-**JVMedeiros/JVMedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Badge](https://img.shields.io/github/followers/JVMedeiros?label=JVMedeiros&style=for-the-badge&color=black&link=https://github.com/JVMedeiros)](https://github.com/JVMedeiros)
+[![LinkedIn Badge](https://img.shields.io/badge/jvmedeiros-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvmedeiros/)](https://www.linkedin.com/in/jvmedeiros/)
+[![Email Badge](https://img.shields.io/badge/contact-jv.medeiros.gallina@gmail.com-red?style=for-the-badge&link=https://www.linkedin.com/in/joão-medeiros/)](https://www.linkedin.com/in/joão-medeiros/)
 
-Here are some ideas to get you started:
+Here are some informations about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at [Zappts](https://www.zappts.com.br/)
+- 👨‍🎓 Systems Analysis and Development at [FATEC](https://fatecsjc-prd.azurewebsites.net/)
+- 📫 How to reach me: [Send me a email](mailto:jv.medeiros.gallin@gmail.com)
+
+<!-- ![Data about me](https://github-readme-stats.vercel.app/api?username=OfficialMarinho&show_icons=true&hide_border=true) -->
