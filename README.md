@@ -7,7 +7,7 @@
 Here are some informations about me:
 
 - 🔭 I’m currently working at [Zappts](https://www.zappts.com.br/)
-- 👨‍🎓 Currently Systems Analysis and Development at [FATEC](https://fatecsjc-prd.azurewebsites.net/)
+- 👨‍🎓 Currently studying Systems Analysis and Development at [FATEC](https://fatecsjc-prd.azurewebsites.net/)
 - 📫 How to reach me: [Send me a email](mailto:jv.medeiros.gallin@gmail.com)
 
 <!-- ![Data about me](https://github-readme-stats.vercel.app/api?username=OfficialMarinho&show_icons=true&hide_border=true) -->
