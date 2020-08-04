@@ -1,8 +1,6 @@
 ### Hello! <img alt="Waving hand emoji" src="https://github.com/OfficialMarinho/OfficialMarinho/blob/master/waving-hand-emoji-animated.gif?raw=true" width="25px">
 
-:blush: Hey there, I'm João and I'm a true lover of technology and music in general!
-
-
+:blush: Hey there, I'm João and I'm a true lover of technology and music in general!<br/>
 :rocket: Learning React, React Native, Node JS. <br/>
 :fire: Looking for opportunities to desenvolve myself and my coding skills in fron-end projects <br/>
 :musical_note: I love all music gender and play FPS games on my free time!<br/><br/>
