@@ -1,4 +1,4 @@
-### Hello! <img alt="Waving hand emoji" src="https://github.com/OfficialMarinho/OfficialMarinho/blob/master/waving-hand-emoji-animated.gif?raw=true" width="25px">
+### Hello!
 
 :blush: Hey there, I'm João and I'm a true lover of technology and music in general!<br/>
 :rocket: Learning React, React Native, Node JS. <br/>
