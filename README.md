@@ -10,7 +10,7 @@
 
 Here are some informations about me:
 
-- 🔭 I’m currently working at [Hospital Israelita Albert Einstein](https://einstein.br/Pages/Home.aspx)
+- 🔭 Fullstack developer at [Hospital Israelita Albert Einstein](https://einstein.br/Pages/Home.aspx)
 - 👨‍🎓 Currently studying Systems Analysis and Development at [FATEC](https://fatecsjc-prd.azurewebsites.net/)
 - 📫 How to reach me: [Send me a email](mailto:jv.medeiros.gallina@gmail.com)
 
