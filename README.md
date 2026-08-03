@@ -8,7 +8,7 @@
 
 ## 🧠 Sobre mim
 
-Desenvolvedor fullstack focado em construir aplicações escaláveis com arquitetura limpa e boas práticas de engenharia.
+Desenvolvedor fullstack com 6+ anos de experiência com foco em construir aplicações escaláveis com arquitetura limpa e boas práticas de engenharia.
 
 - 💼 Software Engineer na [RecrutAI](https://recrutai.com.br)
 - 🎓 Cursando Banco de Dados na FATEC
